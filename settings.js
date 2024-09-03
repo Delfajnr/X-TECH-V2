@@ -11,7 +11,7 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "18494617708"
-global.ownername = "🔞𝐗-𝐓𝐄𝐂𝐇🔰"
+global.ownername = "𝐕𝐀𝐍𝐈𝐓𝐀𝐒 𝐆𝐎𝐋𝐃 𝐀.𝐊"
 global.ytname = "YT: X-TECH-CORP "
 global.socialm = "GitHub: X-TECH-CORP"
 global.location = "United states, New York, Times Square"
@@ -21,8 +21,8 @@ global.ownername = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //owner name
 global.botname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //name of the bot
 
 //sticker details
-global.packname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰'
-global.author = '🔞𝐗-𝐓𝐄𝐂𝐇🔰\n\nContact: +18494617708'
+global.packname = '𝐕𝐀𝐍𝐈𝐓𝐀𝐒 𝐆𝐎𝐋𝐃 𝐀.𝐊'
+global.author = '🔞𝐗-𝐓𝐄𝐂𝐇🔰\n\nContact: 221763699741'
 
 //console view/theme
 global.themeemoji = '🔞'
